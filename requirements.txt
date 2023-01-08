@@ -1,0 +1,15 @@
+aiohttp
+beautifulsoup4
+requests
+hachoir
+numpy
+Pillow
+pyrogram
+requests
+tgcrypto
+pydrive
+pySmartDL
+hachoir
+psycopg2-binary
+ffmpeg
+python-dotenv
